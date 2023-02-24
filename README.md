@@ -2,6 +2,14 @@
 This program generates a chessboard and renders the chess pieces according to the FEN notation
 
 
+The main code can be found in the .py(Python file) : Final_Project Chess.py
+
+Additional Instruction can be found in the file : Readme for Git.pdf
+
+All the files can be found together in an downloadable zip file titled :
+
+
+Description :
 
 
 This project report effectively describes a Python program which reads FEN notation as described in  problem statement from a file and  subsequently generates a 800 x 800 px chessboard based  populated with chesspieces based on the FEN notation.Then it exports the image in PNG format with the same file name as the input file.
@@ -46,6 +54,3 @@ Methodology used in writing the program:
 •	Additionally a colour scheme was provided at  beginning of the program as an option to be chosen from.
 
 
-The main code can be found in the .py(Python file) Final_Project.py
-
-Additional Instruction can be found in the file Readme_Git.pdf
