@@ -5,8 +5,11 @@ This program generates a chessboard and renders the chess pieces according to th
 
 
 This project report effectively describes a Python program which reads FEN notation as described in  problem statement from a file and  subsequently generates a 800 x 800 px chessboard based  populated with chesspieces based on the FEN notation.Then it exports the image in PNG format with the same file name as the input file.
+
 External Libraries Used:
+
 Numpy: Numpy is a very popular ,open-source and free Python external package for Scientific calculations especially for working with arrays and matrices. It has a variety of features which increases Python's computation capabilities much beyond the boundaries of standard python.Usually numpy is imported as a variable np and the same is used in the Python program and the report described.The pip module can effectively be used as a method of installation Syntax: pip install numpy
+
 OpenCV: OpenCV is an open source external Python library widely used for image processing & computer vision which can be additionally used for machine learing.Usually OpenCV is imported as cv2 (Syntax: import cv2).However it is to be noted that OpenCV imports and uses the colour space BGR instead of the convensional RGB module which one needs to be careful about during its usage.The pip module can effectively be used as a method of installation Syntax: pip install opencv-python
 
 
@@ -41,3 +44,8 @@ Methodology used in writing the program:
 •	The final image was exported with the same file name as the input file but under .png format.The  generated image can be found in the same directory as the one with the Python program used.
 
 •	Additionally a colour scheme was provided at  beginning of the program as an option to be chosen from.
+
+
+The main code can be found in the .py(Python file) Final_Project.py
+
+Additional Instruction can be found in the file Readme_Git.pdf
