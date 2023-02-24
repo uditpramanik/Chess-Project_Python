@@ -6,7 +6,7 @@ The main code can be found in the .py(Python file) : Final_Project Chess.py
 
 Additional Instruction can be found in the file : Readme for Git.pdf
 
-All the files can be found together in an downloadable zip file titled :
+All the files can be found together in an downloadable zip file titled : Chess Project_Git.zip
 
 
 Description :
